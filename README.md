@@ -53,8 +53,8 @@ ALSO SHIP WITH (AI-paired):
 ```
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GH_USERNAME&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=FFA500&icon_color=00FF41&text_color=E8E8E8&ring_color=FFA500"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GH_USERNAME&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=FFA500&text_color=E8E8E8&langs_count=8"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=tamanngupta&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=FFA500&icon_color=00FF41&text_color=E8E8E8&ring_color=FFA500"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamanngupta&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=FFA500&text_color=E8E8E8&langs_count=8"/>
 </div>
 
 <br>
