@@ -1,92 +1,122 @@
-<div align="center">
+<svg width="1400" height="440" viewBox="0 0 1400 440" xmlns="http://www.w3.org/2000/svg" font-family="Consolas, 'Courier New', monospace">
+  <rect width="1400" height="440" fill="#0a0a0a"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=180&section=header&text=TAMANNA%20//%20TERMINAL&fontColor=FFA500&fontSize=42&fontAlignY=40&desc=B.Tech%20CSE%20%40%20DTU%20%7C%20Founder%20%7C%20Quant-curious&descAlignY=62&descSize=16&descColor=00FF41" width="100%"/>
+  <!-- top bar -->
+  <rect x="0" y="0" width="1400" height="42" fill="#111318"/>
+  <text x="20" y="27" fill="#FFA500" font-size="18" font-weight="bold">TAMANNA // TERMINAL</text>
+  <text x="380" y="27" fill="#666666" font-size="16">|</text>
+  <text x="400" y="27" fill="#00FF41" font-size="16">&lt; BUILD MODE &gt;</text>
+  <text x="580" y="27" fill="#666666" font-size="16">|</text>
+  <text x="600" y="27" fill="#00FF41" font-size="16">GITHUB DASHBOARD</text>
+  <text x="1240" y="27" fill="#00FF41" font-size="15">STATUS: LIVE</text>
+  <circle cx="1225" cy="22" r="5" fill="#00FF41"/>
 
-```
-╔══════════════════════════════════════════════════════════════════════╗
-║  TMNA <GO>                                          LAST: BUILDING    ║
-║  Delhi, IN                                          18Y  CSE'30       ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
+  <line x1="0" y1="42" x2="1400" y2="42" stroke="#2a2a2a" stroke-width="1"/>
 
-</div>
+  <!-- left panel: terminal prompt -->
+  <rect x="0" y="42" width="340" height="356" fill="#0d0f12"/>
+  <text x="20" y="80" fill="#00FF41" font-size="15">$ whoami</text>
+  <text x="20" y="108" fill="#4ade80" font-size="14">&gt; builder. learner.</text>
+  <text x="20" y="128" fill="#4ade80" font-size="14">&gt; problem solver.</text>
+  <text x="20" y="158" fill="#4ade80" font-size="14">&gt; shipping in progress.</text>
+  <rect x="20" y="178" width="10" height="16" fill="#00FF41"/>
 
-<br>
+  <text x="20" y="240" fill="#666666" font-size="12">──────────────────</text>
+  <text x="20" y="266" fill="#FFA500" font-size="13" font-weight="bold">FOCUS</text>
+  <text x="20" y="290" fill="#c9c9c9" font-size="13">Founder-mode builder</text>
+  <text x="20" y="310" fill="#c9c9c9" font-size="13">Learning markets, systems</text>
+  <text x="20" y="330" fill="#c9c9c9" font-size="13">&amp; how to ship faster</text>
 
-```diff
-+ SECURITY OVERVIEW ─────────────────────────────────────────────────────
-```
+  <line x1="340" y1="42" x2="340" y2="398" stroke="#2a2a2a" stroke-width="1"/>
 
-```yaml
-NAME:        Tamanna
-ROLE:        Co-Founder @ MintyBath | Growth @ GrowthKit AI
-EDUCATION:   B.Tech CSE, Delhi Technological University (incoming)
-CREDENTIAL:  JEE Advanced Qualifier | 99.43%ile JEE Mains
-FOCUS:       Quant Finance · Fintech · Full-Stack · F1
-STATUS:      🟢 LIVE — building in public
-```
+  <!-- middle panel: projects -->
+  <text x="360" y="72" fill="#FFA500" font-size="14" font-weight="bold">PROJECTS</text>
+  <text x="640" y="72" fill="#FFA500" font-size="14" font-weight="bold">STATUS</text>
+  <text x="820" y="72" fill="#FFA500" font-size="14" font-weight="bold">NOTES</text>
+  <line x1="360" y1="84" x2="1060" y2="84" stroke="#2a2a2a" stroke-width="1"/>
 
-<br>
+  <!-- row 1 MintyBath -->
+  <text x="360" y="112" fill="#e8e8e8" font-size="14" font-weight="bold">MintyBath</text>
+  <text x="360" y="130" fill="#888888" font-size="12">Building finance for everyone</text>
+  <rect x="640" y="102" width="130" height="18" rx="3" fill="#0d2818" stroke="#00FF41"/>
+  <text x="648" y="115" fill="#00FF41" font-size="11">BUILDING</text>
+  <rect x="640" y="126" width="130" height="6" fill="#1a1a1a"/>
+  <rect x="640" y="126" width="91" height="6" fill="#00FF41"/>
+  <text x="820" y="112" fill="#c9c9c9" font-size="12">0 → 1</text>
+  <text x="820" y="128" fill="#c9c9c9" font-size="12">Problem worth solving</text>
 
-```diff
-+ WATCHLIST ── ACTIVE POSITIONS ─────────────────────────────────────────
-```
+  <!-- row 2 DTU -->
+  <text x="360" y="168" fill="#e8e8e8" font-size="14" font-weight="bold">DTU CS</text>
+  <text x="360" y="186" fill="#888888" font-size="12">Incoming</text>
+  <rect x="640" y="158" width="130" height="18" rx="3" fill="#2a1f0d" stroke="#FFA500"/>
+  <text x="648" y="171" fill="#FFA500" font-size="11">LOADING...</text>
+  <rect x="640" y="182" width="130" height="6" fill="#1a1a1a"/>
+  <rect x="640" y="182" width="78" height="6" fill="#FFA500"/>
+  <text x="820" y="168" fill="#c9c9c9" font-size="12">Fall 2026</text>
+  <text x="820" y="184" fill="#c9c9c9" font-size="12">Let's go</text>
 
-| TICKER | NAME | SECTOR | STATUS | NOTE |
-|:------:|:-----|:-------|:------:|:-----|
-| `MNTB` | **MintyBath** | FinTech / EdTech | 🟢 BUILD | Simulated stock trading + financial literacy app for Indian teens (11–17). ELO-based market engine w/ anti-whale mechanics. |
-| `GKAI` | **GrowthKit AI** | Growth | 🟢 LIVE | Growth role — outreach, positioning, founder-mode execution |
-| `ALCH` | **Alchemy** | EdTech | 🟡 SHIPPED | Duolingo-style carbonyl chemistry app · RAG pipeline over YT transcripts |
-| `FEST` | **Festocracy** | Social | 🟡 SHIPPED | ELO-ranked college fest discovery platform |
-| `F1TS` | **f1typeshit** | Sports/Ed | 🟡 SHIPPED | F1 learning app for new fans |
+  <!-- row 3 Finance -->
+  <text x="360" y="224" fill="#e8e8e8" font-size="14" font-weight="bold">Finance</text>
+  <text x="360" y="242" fill="#888888" font-size="12">Markets. Systems. Behaviour.</text>
+  <rect x="640" y="214" width="130" height="18" rx="3" fill="#0d2818" stroke="#00FF41"/>
+  <text x="648" y="227" fill="#00FF41" font-size="11">LEARNING</text>
+  <rect x="640" y="238" width="130" height="6" fill="#1a1a1a"/>
+  <rect x="640" y="238" width="85" height="6" fill="#00FF41"/>
+  <text x="820" y="224" fill="#c9c9c9" font-size="12">Long-term game</text>
 
-<br>
+  <!-- row 4 Side Projects -->
+  <text x="360" y="280" fill="#e8e8e8" font-size="14" font-weight="bold">Side Projects</text>
+  <text x="360" y="298" fill="#888888" font-size="12">Always cooking something</text>
+  <rect x="640" y="270" width="130" height="18" rx="3" fill="#2a1f0d" stroke="#FFA500"/>
+  <text x="648" y="283" fill="#FFA500" font-size="11">EXPERIMENT</text>
+  <rect x="640" y="294" width="130" height="6" fill="#1a1a1a"/>
+  <rect x="640" y="294" width="52" height="6" fill="#FFA500"/>
+  <text x="820" y="280" fill="#c9c9c9" font-size="12">Ideas → Code → Ship</text>
 
-```diff
-+ TECH STACK ── HOLDINGS ────────────────────────────────────────────────
-```
+  <!-- row 5 Personal Growth -->
+  <text x="360" y="336" fill="#e8e8e8" font-size="14" font-weight="bold">Personal Growth</text>
+  <text x="360" y="354" fill="#888888" font-size="12">Mind. Health. Skills.</text>
+  <rect x="640" y="326" width="130" height="18" rx="3" fill="#0d2818" stroke="#00FF41"/>
+  <text x="648" y="339" fill="#00FF41" font-size="11">ONGOING</text>
+  <rect x="640" y="350" width="130" height="6" fill="#1a1a1a"/>
+  <rect x="640" y="350" width="104" height="6" fill="#00FF41"/>
+  <text x="820" y="336" fill="#c9c9c9" font-size="12">1% better every day</text>
 
-<div align="center">
+  <line x1="1060" y1="42" x2="1060" y2="398" stroke="#2a2a2a" stroke-width="1"/>
 
-`TypeScript` `Node.js` `Fastify` `PostgreSQL` `Prisma` `Socket.io`
-`React Native` `Expo` `Python` `Supabase` `Firebase` `Vercel`
+  <!-- right panel: market watch -->
+  <text x="1080" y="72" fill="#FFA500" font-size="14" font-weight="bold">MARKET WATCH</text>
+  <line x1="1080" y1="84" x2="1380" y2="84" stroke="#2a2a2a" stroke-width="1"/>
+  <text x="1080" y="112" fill="#e8e8e8" font-size="13">NIFTY 50</text>
+  <text x="1300" y="112" fill="#00FF41" font-size="13" text-anchor="end">+0.62%</text>
+  <text x="1080" y="140" fill="#e8e8e8" font-size="13">SENSEX</text>
+  <text x="1300" y="140" fill="#00FF41" font-size="13" text-anchor="end">+0.55%</text>
+  <text x="1080" y="168" fill="#e8e8e8" font-size="13">USD/INR</text>
+  <text x="1300" y="168" fill="#ff5c5c" font-size="13" text-anchor="end">-0.12%</text>
+  <text x="1080" y="196" fill="#e8e8e8" font-size="13">GOLD</text>
+  <text x="1300" y="196" fill="#00FF41" font-size="13" text-anchor="end">+0.18%</text>
+  <text x="1080" y="224" fill="#e8e8e8" font-size="13">BTC/USD</text>
+  <text x="1300" y="224" fill="#00FF41" font-size="13" text-anchor="end">+1.35%</text>
 
-</div>
+  <text x="1080" y="270" fill="#FFA500" font-size="13" font-weight="bold">TODAY</text>
+  <text x="1080" y="294" fill="#c9c9c9" font-size="12">→ Ship one thing</text>
+  <text x="1080" y="314" fill="#c9c9c9" font-size="12">→ Fix one bug</text>
+  <text x="1080" y="334" fill="#c9c9c9" font-size="12">→ Compound</text>
 
-<br>
-
-```diff
-+ MARKET DEPTH ── GITHUB ACTIVITY ───────────────────────────────────────
-```
-
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GH_USERNAME&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=FFA500&icon_color=00FF41&text_color=E8E8E8&ring_color=FFA500"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GH_USERNAME&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=FFA500&text_color=E8E8E8&langs_count=8"/>
-</div>
-
-<br>
-
-```diff
-+ NEWS FEED ── SCROLLING TICKER ─────────────────────────────────────────
-```
-
-<div align="center">
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=800&color=00FF41&background=0D0D0D00&center=true&vCenter=true&width=800&lines=MNTB+building+ELO+market+engine+%7C+anti-whale+live;JEE+Advanced+2026+%E2%80%94+99.43+percentile+JEE+Mains;INCOMING+%40+DTU+CSE+%E2%80%94+T-minus+building;shipped+ALCH%2C+FEST%2C+F1TS+%E2%80%94+MNTB+next)
-
-</div>
-
-<br>
-
-```diff
-+ CONNECT ── ORDER ROUTING ──────────────────────────────────────────────
-```
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=FFA500)](https://x.com/YOUR_HANDLE)
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:000000&height=100&section=footer"/>
+  <!-- bottom ticker -->
+  <line x1="0" y1="398" x2="1400" y2="398" stroke="#2a2a2a" stroke-width="1"/>
+  <rect x="0" y="398" width="1400" height="42" fill="#111318"/>
+  <text x="20" y="424" fill="#FFA500" font-size="12" font-weight="bold">LIVE FEED</text>
+  <text x="150" y="424" fill="#e8e8e8" font-size="12">RELIANCE 2,894.35</text>
+  <text x="290" y="424" fill="#00FF41" font-size="12">▲ 1.26%</text>
+  <text x="380" y="424" fill="#e8e8e8" font-size="12">TCS 4,033.10</text>
+  <text x="490" y="424" fill="#ff5c5c" font-size="12">▼ 0.48%</text>
+  <text x="580" y="424" fill="#e8e8e8" font-size="12">HDFCBANK 1,678.90</text>
+  <text x="740" y="424" fill="#00FF41" font-size="12">▲ 0.75%</text>
+  <text x="830" y="424" fill="#e8e8e8" font-size="12">INFY 1,542.25</text>
+  <text x="940" y="424" fill="#ff5c5c" font-size="12">▼ 0.22%</text>
+  <text x="1030" y="424" fill="#e8e8e8" font-size="12">ITC 449.80</text>
+  <text x="1130" y="424" fill="#00FF41" font-size="12">▲ 0.31%</text>
+  <text x="1220" y="424" fill="#e8e8e8" font-size="12">SBIN 812.45</text>
+  <text x="1320" y="424" fill="#00FF41" font-size="12">▲ 0.66%</text>
+</svg>
