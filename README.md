@@ -84,8 +84,7 @@ ALSO SHIP WITH (AI-paired):
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41)](www.linkedin.com/in/tamanna-gupta--)
-[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=FFA500)](https://x.com/YOUR_HANDLE)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41)](https://www.linkedin.com/in/tamanna-gupta--/)
 
 </div>
 
