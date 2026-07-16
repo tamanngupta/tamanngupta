@@ -60,12 +60,32 @@ ALSO SHIP WITH (AI-paired):
 <br>
 
 ```diff
++ CONTRIBUTION FEED ── DAILY ACTIVITY ───────────────────────────────────
+```
+
+<div align="center">
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tamanngupta&bg_color=0D0D0D&color=FFA500&line=00FF41&point=FFA500&area=true&area_color=00FF41&hide_border=true"/>
+</div>
+
+<br>
+
+```diff
++ STREAK ── CONSISTENCY LOG ─────────────────────────────────────────────
+```
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tamanngupta&background=0D0D0D&border=2A2A2A&ring=FFA500&fire=00FF41&currStreakLabel=00FF41&sideLabels=E8E8E8&currStreakNum=E8E8E8&sideNums=E8E8E8&dates=888888"/>
+</div>
+
+<br>
+
+```diff
 + CONNECT ── ORDER ROUTING ──────────────────────────────────────────────
 ```
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41)](www.linkedin.com/in/tamanna-gupta--)
 [![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=FFA500)](https://x.com/YOUR_HANDLE)
 
 </div>
