@@ -49,13 +49,6 @@ ALSO SHIP WITH (AI-paired):
 <br>
 
 ```diff
-+ MARKET DEPTH ── GITHUB ACTIVITY ───────────────────────────────────────
-```
-
-<div align="center">
-<img height="165" src="https://github-readme-stats-six-lovat-59.vercel.app/api?username=tamanngupta&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=FFA500&icon_color=00FF41&text_color=E8E8E8&ring_color=FFA500" />
-</div>
-```diff
 + CONTRIBUTION FEED ── DAILY ACTIVITY ───────────────────────────────────
 ```
 
